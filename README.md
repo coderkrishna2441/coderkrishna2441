@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django)](https://skillicons.dev)
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,django)](https://skillicons.dev)
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krishna-sharma-09517a251/">
