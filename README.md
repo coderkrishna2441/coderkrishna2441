@@ -29,3 +29,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<p>
+  <h1> GitHub Stats </h1>
+  https://github-readme-streak-stats.herokuapp.com/?user=coderkrishna2441
+</p>
