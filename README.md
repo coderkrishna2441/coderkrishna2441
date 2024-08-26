@@ -1,9 +1,9 @@
-<pre>
+<p>
   <h1>Hi there, I'm Krishna</h1>
 - 👀 I’m interested in making projects using Django and React js
 - 🌱 I’m currently learning fullstack devlopment
 - 💞️ I’m looking to collaborate on internship  projects
-</pre>
+</p>
 
 
 <!---
