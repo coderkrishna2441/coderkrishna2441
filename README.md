@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <pre>
+   <h1> Skills <h1>
   <a href="https://skillicons.dev">
-    <h1> Skills <h1>
     <img src="https://skillicons.dev/icons?i=css,html,js,django" />
   </a>
 </pre>
