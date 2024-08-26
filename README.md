@@ -1,7 +1,9 @@
+<pre align="center">
 - 👋 Hi, I’m Krishna
 - 👀 I’m interested in making projects using Django and React js
 - 🌱 I’m currently learning fullstack devlopment
 - 💞️ I’m looking to collaborate on internship  projects
+</pre>
 
 
 <!---
@@ -16,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/krishna-sharma-09517a251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
