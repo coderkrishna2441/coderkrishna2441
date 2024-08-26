@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div>
-  https://skillicons.dev/icons?i=js,html,css,django https://skillicons.dev
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,django" />
+  </a>
+</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krishna-sharma-09517a251/">
