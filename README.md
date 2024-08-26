@@ -9,5 +9,5 @@ coderkrishna2441/coderkrishna2441 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
- SKILLS
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django)](https://skillicons.dev)
