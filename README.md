@@ -32,5 +32,5 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h1> GitHub Stats </h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderkrishna2441"/>
+  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=coderkrishna2441)(https://github-readme-stats.vercel.app/api/top-langs/?username=coderkrishna2441&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/>
 </p>
