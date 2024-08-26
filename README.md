@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <h1> Top Repo & Languages</h1>
-  <img src="https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=coderkrishna2441&theme=dark&background=000000"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkrishna2441&layout=compact&theme=vision-friendly-dark"/>
 </p>
