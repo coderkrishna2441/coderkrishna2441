@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django)](https://skillicons.dev)
+
+https://img.shields.io/badge/LinkedIn-blue
+https://img.shields.io/badge/Instagram-red
+https://img.shields.io/badge/Gmail-green
