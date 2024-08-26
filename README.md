@@ -1,4 +1,4 @@
-<pre align="center">
+<pre>
   <h1>Hi there, I'm Krishna</h1>
 - 👀 I’m interested in making projects using Django and React js
 - 🌱 I’m currently learning fullstack devlopment
