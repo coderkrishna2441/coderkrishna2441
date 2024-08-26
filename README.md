@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<div id="badges" align="center">
+<div id="badges">
+  <h1>Connect With Me</h1>
   <a href="https://www.linkedin.com/in/krishna-sharma-09517a251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
