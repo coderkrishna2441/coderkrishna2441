@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p>
-  <h1> GitHub Stats </h1>
+  <h1> Top Repo & Languages</h1>
+  <img src="https://github.com/anuraghazra/github-readme-stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkrishna2441&layout=compact&theme=vision-friendly-dark"/>
 </p>
